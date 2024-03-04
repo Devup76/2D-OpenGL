@@ -1,0 +1,24 @@
+**********************************************
+* Misc notes on what the game will end up as *
+**********************************************
+
+
+Current Status: A basic 2D renderer with half-working AABB detection.
+
+
+Shop Game
+
+Player is the camera view. No visual representation.
+
+Shop will start with small square. Can upgrade later.
+
+Starts with choice of products (General Merchandise, Dry Goods, or Fresh Goods)
+(General Merch is first implementation)
+
+Store Rating (SR - out of 100 (Basically the leveling system) Starts at 1) Determines what products you can sell/have unlocked.
+
+General Merchandise Products Key:
+
+SR - 1:
+1. Low End Shoes
+
