@@ -88,12 +88,12 @@
       <SDLCheck>true</SDLCheck>
       <PreprocessorDefinitions>WIN32;_DEBUG;_CONSOLE;%(PreprocessorDefinitions)</PreprocessorDefinitions>
       <ConformanceMode>true</ConformanceMode>
-      <AdditionalIncludeDirectories>C:\Users\devin\Desktop\Coding Projects\Libraries\glad\include;C:\Users\devin\Desktop\Coding Projects\Libraries\glfw-3.3.8.bin.WIN64\include;C:\Users\devin\Desktop\Coding Projects\Libraries\glm;C:\Users\devin\Desktop\Coding Projects\Libraries\stb_image;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <AdditionalIncludeDirectories>C:\Users\devin\Desktop\Coding Projects\Misc\2D OpenGL\GameEngine\Source;C:\Users\devin\Desktop\Coding Projects\Misc\2D OpenGL\GameEngine\Include;C:\Users\devin\Desktop\Coding Projects\Libraries\glad\include;C:\Users\devin\Desktop\Coding Projects\Libraries\glfw-3.3.8.bin.WIN64\include;C:\Users\devin\Desktop\Coding Projects\Libraries\glm;C:\Users\devin\Desktop\Coding Projects\Libraries\stb_image;C:\Users\devin\Desktop\Coding Projects\Libraries\box2d-main\include;C:\Users\devin\Desktop\Coding Projects\Libraries\tinyxml2-master;C:\Users\devin\Desktop\Coding Projects\Libraries\imgui;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
     </ClCompile>
     <Link>
       <SubSystem>Console</SubSystem>
       <GenerateDebugInformation>true</GenerateDebugInformation>
-      <AdditionalLibraryDirectories>C:\Users\devin\Desktop\Coding Projects\Libraries\glfw-3.3.8.bin.WIN64\lib-vc2022;%(AdditionalLibraryDirectories)</AdditionalLibraryDirectories>
+      <AdditionalLibraryDirectories>C:\Users\devin\Desktop\Coding Projects\Libraries\glfw-3.3.8.bin.WIN64\lib-vc2022;C:\Users\devin\Desktop\Coding Projects\Libraries\box2d-main\build\bin\Debug;C:\Users\devin\Desktop\Coding Projects\Libraries\tinyxml2-master\lib;%(AdditionalLibraryDirectories)</AdditionalLibraryDirectories>
       <AdditionalDependencies>%(AdditionalDependencies)</AdditionalDependencies>
     </Link>
   </ItemDefinitionGroup>
@@ -105,14 +105,14 @@
       <SDLCheck>true</SDLCheck>
       <PreprocessorDefinitions>WIN32;NDEBUG;_CONSOLE;%(PreprocessorDefinitions)</PreprocessorDefinitions>
       <ConformanceMode>true</ConformanceMode>
-      <AdditionalIncludeDirectories>C:\Users\devin\Desktop\Coding Projects\Libraries\glad\include;C:\Users\devin\Desktop\Coding Projects\Libraries\glfw-3.3.8.bin.WIN64\include;C:\Users\devin\Desktop\Coding Projects\Libraries\glm;C:\Users\devin\Desktop\Coding Projects\Libraries\stb_image;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <AdditionalIncludeDirectories>C:\Users\devin\Desktop\Coding Projects\Misc\2D OpenGL\GameEngine\Source;C:\Users\devin\Desktop\Coding Projects\Misc\2D OpenGL\GameEngine\Include;C:\Users\devin\Desktop\Coding Projects\Libraries\glad\include;C:\Users\devin\Desktop\Coding Projects\Libraries\glfw-3.3.8.bin.WIN64\include;C:\Users\devin\Desktop\Coding Projects\Libraries\glm;C:\Users\devin\Desktop\Coding Projects\Libraries\stb_image;C:\Users\devin\Desktop\Coding Projects\Libraries\box2d-main\include;C:\Users\devin\Desktop\Coding Projects\Libraries\tinyxml2-master;C:\Users\devin\Desktop\Coding Projects\Libraries\imgui;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
     </ClCompile>
     <Link>
       <SubSystem>Console</SubSystem>
       <EnableCOMDATFolding>true</EnableCOMDATFolding>
       <OptimizeReferences>true</OptimizeReferences>
       <GenerateDebugInformation>true</GenerateDebugInformation>
-      <AdditionalLibraryDirectories>C:\Users\devin\Desktop\Coding Projects\Libraries\glfw-3.3.8.bin.WIN64\lib-vc2022;%(AdditionalLibraryDirectories)</AdditionalLibraryDirectories>
+      <AdditionalLibraryDirectories>C:\Users\devin\Desktop\Coding Projects\Libraries\glfw-3.3.8.bin.WIN64\lib-vc2022;C:\Users\devin\Desktop\Coding Projects\Libraries\box2d-main\build\bin\Debug;C:\Users\devin\Desktop\Coding Projects\Libraries\tinyxml2-master\lib;%(AdditionalLibraryDirectories)</AdditionalLibraryDirectories>
       <AdditionalDependencies>%(AdditionalDependencies)</AdditionalDependencies>
     </Link>
   </ItemDefinitionGroup>
@@ -122,12 +122,12 @@
       <SDLCheck>true</SDLCheck>
       <PreprocessorDefinitions>_DEBUG;_CONSOLE;%(PreprocessorDefinitions)</PreprocessorDefinitions>
       <ConformanceMode>true</ConformanceMode>
-      <AdditionalIncludeDirectories>C:\Users\devin\Desktop\Coding Projects\Libraries\glad\include;C:\Users\devin\Desktop\Coding Projects\Libraries\glfw-3.3.8.bin.WIN64\include;C:\Users\devin\Desktop\Coding Projects\Libraries\glm;C:\Users\devin\Desktop\Coding Projects\Libraries\stb_image;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <AdditionalIncludeDirectories>C:\Users\devin\Desktop\Coding Projects\Misc\2D OpenGL\GameEngine\Source;C:\Users\devin\Desktop\Coding Projects\Misc\2D OpenGL\GameEngine\Include;C:\Users\devin\Desktop\Coding Projects\Libraries\glad\include;C:\Users\devin\Desktop\Coding Projects\Libraries\glfw-3.3.8.bin.WIN64\include;C:\Users\devin\Desktop\Coding Projects\Libraries\glm;C:\Users\devin\Desktop\Coding Projects\Libraries\stb_image;C:\Users\devin\Desktop\Coding Projects\Libraries\box2d-main\include;C:\Users\devin\Desktop\Coding Projects\Libraries\tinyxml2-master;C:\Users\devin\Desktop\Coding Projects\Libraries\imgui;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
     </ClCompile>
     <Link>
       <SubSystem>Console</SubSystem>
       <GenerateDebugInformation>true</GenerateDebugInformation>
-      <AdditionalLibraryDirectories>C:\Users\devin\Desktop\Coding Projects\Libraries\glfw-3.3.8.bin.WIN64\lib-vc2022;%(AdditionalLibraryDirectories)</AdditionalLibraryDirectories>
+      <AdditionalLibraryDirectories>C:\Users\devin\Desktop\Coding Projects\Libraries\glfw-3.3.8.bin.WIN64\lib-vc2022;C:\Users\devin\Desktop\Coding Projects\Libraries\box2d-main\build\bin\Debug;C:\Users\devin\Desktop\Coding Projects\Libraries\tinyxml2-master\lib;%(AdditionalLibraryDirectories)</AdditionalLibraryDirectories>
       <AdditionalDependencies>%(AdditionalDependencies)</AdditionalDependencies>
     </Link>
   </ItemDefinitionGroup>
@@ -139,35 +139,85 @@
       <SDLCheck>true</SDLCheck>
       <PreprocessorDefinitions>NDEBUG;_CONSOLE;%(PreprocessorDefinitions)</PreprocessorDefinitions>
       <ConformanceMode>true</ConformanceMode>
-      <AdditionalIncludeDirectories>C:\Users\devin\Desktop\Coding Projects\Libraries\glad\include;C:\Users\devin\Desktop\Coding Projects\Libraries\glfw-3.3.8.bin.WIN64\include;C:\Users\devin\Desktop\Coding Projects\Libraries\glm;C:\Users\devin\Desktop\Coding Projects\Libraries\stb_image;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <AdditionalIncludeDirectories>C:\Users\devin\Desktop\Coding Projects\Misc\2D OpenGL\GameEngine\Source;C:\Users\devin\Desktop\Coding Projects\Misc\2D OpenGL\GameEngine\Include;C:\Users\devin\Desktop\Coding Projects\Libraries\glad\include;C:\Users\devin\Desktop\Coding Projects\Libraries\glfw-3.3.8.bin.WIN64\include;C:\Users\devin\Desktop\Coding Projects\Libraries\glm;C:\Users\devin\Desktop\Coding Projects\Libraries\stb_image;C:\Users\devin\Desktop\Coding Projects\Libraries\box2d-main\include;C:\Users\devin\Desktop\Coding Projects\Libraries\tinyxml2-master;C:\Users\devin\Desktop\Coding Projects\Libraries\imgui;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
     </ClCompile>
     <Link>
       <SubSystem>Console</SubSystem>
       <EnableCOMDATFolding>true</EnableCOMDATFolding>
       <OptimizeReferences>true</OptimizeReferences>
       <GenerateDebugInformation>true</GenerateDebugInformation>
-      <AdditionalLibraryDirectories>C:\Users\devin\Desktop\Coding Projects\Libraries\glfw-3.3.8.bin.WIN64\lib-vc2022;%(AdditionalLibraryDirectories)</AdditionalLibraryDirectories>
+      <AdditionalLibraryDirectories>C:\Users\devin\Desktop\Coding Projects\Libraries\glfw-3.3.8.bin.WIN64\lib-vc2022;C:\Users\devin\Desktop\Coding Projects\Libraries\box2d-main\build\bin\Debug;C:\Users\devin\Desktop\Coding Projects\Libraries\tinyxml2-master\lib;%(AdditionalLibraryDirectories)</AdditionalLibraryDirectories>
       <AdditionalDependencies>%(AdditionalDependencies)</AdditionalDependencies>
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="..\..\Libraries\glad\src\glad.c" />
-    <ClCompile Include="Main.cpp" />
-    <ClCompile Include="Shader.cpp" />
-    <ClCompile Include="Sprite.cpp" />
-    <ClCompile Include="stb.cpp" />
+    <ClCompile Include="..\..\Libraries\imgui\imgui.cpp" />
+    <ClCompile Include="..\..\Libraries\imgui\imgui_demo.cpp" />
+    <ClCompile Include="..\..\Libraries\imgui\imgui_draw.cpp" />
+    <ClCompile Include="..\..\Libraries\imgui\imgui_impl_glfw.cpp" />
+    <ClCompile Include="..\..\Libraries\imgui\imgui_impl_opengl3.cpp" />
+    <ClCompile Include="..\..\Libraries\imgui\imgui_tables.cpp" />
+    <ClCompile Include="..\..\Libraries\imgui\imgui_widgets.cpp" />
+    <ClCompile Include="GameEngine\Source\Camera.cpp" />
+    <ClCompile Include="GameEngine\Source\GameEngine.cpp" />
+    <ClCompile Include="GameEngine\Source\Main.cpp" />
+    <ClCompile Include="GameEngine\Source\Player.cpp" />
+    <ClCompile Include="GameEngine\Source\Shader.cpp" />
+    <ClCompile Include="GameEngine\Source\Sprite.cpp" />
+    <ClCompile Include="GameEngine\Source\stb.cpp" />
+    <ClCompile Include="GameEngine\Source\TileSpriteRenderer.cpp" />
+    <ClCompile Include="GameEngine\Source\GameObject.cpp" />
+    <ClCompile Include="GameEngine\Source\World.cpp" />
+    <ClCompile Include="GameEngine\Source\WindowManager.cpp" />
+    <ClCompile Include="GameEngine\Source\guiManager.cpp" />
   </ItemGroup>
   <ItemGroup>
-    <Library Include="..\..\Libraries\glfw-3.3.8.bin.WIN64\lib-vc2022\glfw3.lib" />
+    <Library Include="..\..\Libraries\box2d-main\build\bin\Debug\box2d.lib">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">false</ExcludedFromBuild>
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">false</ExcludedFromBuild>
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">false</ExcludedFromBuild>
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Release|x64'">false</ExcludedFromBuild>
+    </Library>
+    <Library Include="..\..\Libraries\glfw-3.3.8.bin.WIN64\lib-vc2022\glfw3.lib">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">false</ExcludedFromBuild>
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">false</ExcludedFromBuild>
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">false</ExcludedFromBuild>
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Release|x64'">false</ExcludedFromBuild>
+    </Library>
   </ItemGroup>
   <ItemGroup>
-    <None Include="fragmentShader.glsl" />
-    <None Include="notes.text" />
-    <None Include="vertexShader.glsl" />
+    <None Include="GameEngine\Include\Shaders\fragmentShader.glsl" />
+    <None Include="GameEngine\Misc-Notes\notes.text" />
+    <None Include="GameEngine\Include\Shaders\vertexShader.glsl" />
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="Shader.h" />
-    <ClInclude Include="Sprite.h" />
+    <ClInclude Include="..\..\Libraries\imgui\imconfig.h" />
+    <ClInclude Include="..\..\Libraries\imgui\imgui.h" />
+    <ClInclude Include="..\..\Libraries\imgui\imgui_impl_glfw.h" />
+    <ClInclude Include="..\..\Libraries\imgui\imgui_impl_opengl3.h" />
+    <ClInclude Include="..\..\Libraries\imgui\imgui_impl_opengl3_loader.h" />
+    <ClInclude Include="..\..\Libraries\imgui\imgui_internal.h" />
+    <ClInclude Include="..\..\Libraries\imgui\imstb_rectpack.h" />
+    <ClInclude Include="..\..\Libraries\imgui\imstb_textedit.h" />
+    <ClInclude Include="..\..\Libraries\imgui\imstb_truetype.h" />
+    <ClInclude Include="GameEngine\Include\Camera.h" />
+    <ClInclude Include="GameEngine\Include\GameEngine.h" />
+    <ClInclude Include="GameEngine\Include\Player.h" />
+    <ClInclude Include="GameEngine\Include\Shader.h" />
+    <ClInclude Include="GameEngine\Include\Sprite.h" />
+    <ClInclude Include="GameEngine\Include\TileSpriteRenderer.h" />
+    <ClInclude Include="GameEngine\Include\GameObject.h" />
+    <ClInclude Include="GameEngine\Include\World.h" />
+    <ClInclude Include="GameEngine\Include\WindowManager.h" />
+    <ClInclude Include="GameEngine\Include\guiManager.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="GameEngine\Include\Pictures\Sprites\cute-ghost-transparent-7.png" />
+    <Image Include="GameEngine\Include\Pictures\Sprites\grass.png">
+      <DeploymentContent>true</DeploymentContent>
+    </Image>
+    <Image Include="GameEngine\Include\Pictures\Sprites\dirt.png" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

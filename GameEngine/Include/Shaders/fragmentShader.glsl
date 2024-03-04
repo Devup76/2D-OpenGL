@@ -11,7 +11,5 @@
 		// Displays a gradient showing the texture coordinates on the object.
 		// FragColor = vec4(TexCoord, 0.0, 1.0);
 
-		vec4 texColor = texture(texture1, TexCoord);
-
-		FragColor = texColor;
+		FragColor = texture(texture1, TexCoord);
 	}
